@@ -1,0 +1,2 @@
+model,rmse,mae,r2,training_time_sec,n_features,n_train_samples,n_val_samples
+XGBoost_v1,20.158766194690276,14.1763916015625,0.7642455697059631,1.123277187347412,75,16340,4291
