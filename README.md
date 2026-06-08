@@ -55,11 +55,11 @@ The LSTM reduced RMSE by **13%** over the tuned XGBoost and raised R² from 0.77
 
 ## Tech Stack
 
---**Languages:** Python
---**ML / DL:** XGBoost, TensorFlow/Keras (LSTM), scikit-learn
---**Data:** pandas, NumPy
---**Visualization:** matplotlib, seaborn
---**Tools:** Jupyter, Git
+-**Languages:** Python
+-**ML / DL:** XGBoost, TensorFlow/Keras (LSTM), scikit-learn
+-**Data:** pandas, NumPy
+-**Visualization:** matplotlib, seaborn
+-**Tools:** Jupyter, Git
 
 ---
 
